@@ -68,5 +68,7 @@ Allergen detection
 ETA estimation
 Multilingual support
 
+Demo Video Link:- https://drive.google.com/file/d/18nwwLJi_PEN2dOOizvpEYJGbjsT9nVDO/view?usp=drive_link
+
 Author:
 Tushar Kakad
